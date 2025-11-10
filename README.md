@@ -166,7 +166,7 @@ Publish the website in the LocalHost.
     <div class="bookpage">
         <div class="booktitle">THE CELESTIAL GATEWAY</div>
         
-        <div class="author-name-top">DR. LATCHAYA PRIYAN</div>
+        <div class="author-name-top">LATCHAYA PRIYAN.S</div>
         
         <img class="gateway-img" src="gateway.png" alt="The Celestial Gateway Cover">
         
@@ -179,7 +179,7 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-11-10 132637.png>)
+![alt text](<Screenshot 2025-11-10 133527.png>)
 
 
 ## RESULT:
